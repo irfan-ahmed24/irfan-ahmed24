@@ -18,7 +18,7 @@
 
 ### 👨‍💼 &nbsp;Who I Am
 
-I'm **Md. Shakil Anower Samrat** — a technology entrepreneur, game developer, and researcher from **Kushtia, Bangladesh**.
+I'm **Irfan Ahmed** — Full Stack Web Developer from **Dhaka, Bangladesh**.
 
 Since founding **Softsasi** in 2022, I've led a growing team across software, games, AI tools, and cybersecurity (CubicSEC). I believe in building things that matter — products that push the boundary between imagination and reality.
 
