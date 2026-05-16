@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5C4&center=true&vCenter=true&random=false&width=600&lines=CEO+%26+Co-Founder+%40+Softsasi;Unreal+Engine+5+Game+Developer;NASA+Space+Apps+Champion+%F0%9F%9A%80;Building+Bangladesh%E2%80%99s+tech+future)](https://git.io/typing-svg)
+
 
 </div>
 
