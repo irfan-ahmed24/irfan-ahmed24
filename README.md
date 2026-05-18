@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Irfan%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CEO%20%C2%B7%20Game%20Developer%20%C2%B7%20Researcher%20%C2%B7%20Entrepreneur&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Irfan%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Student%20%C2%B7%20Web%20Developer%20%C2%B7%20Researcher&descAlignY=58&descSize=16" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5C4&center=true&vCenter=true&random=false&width=600&lines=Student+%26+Full+%26+Stack+%26+Web+%26+Developer;Unreal+Engine+5+Game+Developer;NASA+Space+Apps+Champion+%F0%9F%9A%80;Building+Bangladesh%E2%80%99s+tech+future)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5C4&center=true&vCenter=true&random=false&width=600&lines=Student+of+IUBAT;Full+Stack+Web+Developer;Work+with+PHP+(Laravel)+%F0%9F%9A%80;Building+Bangladesh%E2%80%99s+tech+future)](https://git.io/typing-svg)
 
 </div>
 
