@@ -18,17 +18,20 @@
 
 ### 👨‍💼 &nbsp;Who I Am
 
-I'm **Irfan Ahmed** — Full Stack Web Developer from **Dhaka, Bangladesh**.
+I'm **Irfan Ahmed** — Full Stack Web Developer, AI Researcher, and Tech Entrepreneur from **Dhaka, Bangladesh**.
 
-Since founding **Softsasi** in 2022, I've led a growing team across software, games, AI tools, and cybersecurity (CubicSEC). I believe in building things that matter — products that push the boundary between imagination and reality.
+Since founding **Softsasi** in 2022, I've led a growing team across software, games, AI tools, and cybersecurity (CubicSEC). I am deeply passionate about building things that matter — combining cutting-edge technology with creative design to push the boundaries of what's possible. 
+
+Beyond enterprise solutions, I am actively involved in fostering the local tech and gaming ecosystem in Bangladesh, mentoring tech students, and leading research initiatives in applied sciences.
 
 - 🏢 &nbsp;**CEO & Co-Founder** at [Softsasi](https://softsasi.com) — Software · Games · AI · Security
-- 🎓 &nbsp;**B.Sc. CS&E** at Mymensingh Engineering College
-- 🚀 &nbsp;**Convener**, BASIS Students' Forum MEC Chapter
+- 🎓 &nbsp;**B.Sc. in Computer Science & Engineering** at Mymensingh Engineering College
+- 🚀 &nbsp;**Convener**, BASIS Students' Forum (MEC Chapter)
 - 🏛️ &nbsp;**President**, Aspiring Scholars of Kushtia (ASK)
 - 🎮 &nbsp;**Community Leader**, Unreal Engine Bangladesh
 - 🔬 &nbsp;**Researcher**, Alpha Science Lab BD
-- 🌍 &nbsp;Open to collaboration, partnerships, and global opportunities
+- 🛠️ &nbsp;**Tech Stack**: Full Stack Web Development, AI Tools Integration, Game Dev Pipelines
+- 🌍 &nbsp;Open to global collaborations, enterprise partnerships, and innovative tech ventures
 - 📬 &nbsp;Reach me: **samrat@softsasi.com** · +88 01953-395337
 
 <br clear="right"/>
